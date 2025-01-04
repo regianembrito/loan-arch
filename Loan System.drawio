@@ -236,7 +236,7 @@
         <mxCell id="7OVz4w7n9kzEPWy-4BBC-13" value="React tem as seguintes vantagens: Facilidade de aprendizado, componentes reutilizáveis, melhor desempenho, compatibilidade com SEO (Search Engine Optmization), flexibilidade, curva de aprendizado suave.&amp;nbsp;Angular tem as seguintes vantagens: Arquitetura organizada, suporte do google, comunidade ativa, combinação de dados bidirecional, diretivas, injeção de dependências, recarregamento rápido, biblioteca reativa RxJS." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1220.5" y="62.5" width="449" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-14" value="BLA" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="7OVz4w7n9kzEPWy-4BBC-14" value="Spring Boot e Kotlin tem as seguintes vantagens: Escalabilidade, eficiência e facilidade de manutenção, redução de tempo de desenvolvimento, código mais legível e produtivo, melhoria do desempenho, interoperabilidade com Java." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1219.5" y="185.5" width="450" height="115" as="geometry" />
         </mxCell>
         <mxCell id="7OVz4w7n9kzEPWy-4BBC-15" value="BLA" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
