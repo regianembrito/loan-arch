@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.3">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,67 +72,43 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7OVz4w7n9kzEPWy-4BBC-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEDED;fontSize=22;fontColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1151" y="51" width="539" height="1220" as="geometry" />
+          <mxGeometry x="1081" y="170" width="529" height="499" as="geometry" />
         </mxCell>
         <mxCell id="7OVz4w7n9kzEPWy-4BBC-4" value="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1169" y="63" width="40" height="38" as="geometry" />
+          <mxGeometry x="1099" y="182" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="7OVz4w7n9kzEPWy-4BBC-5" value="2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1167.5" y="185" width="40" height="38" as="geometry" />
+          <mxGeometry x="1097.5" y="308" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="7OVz4w7n9kzEPWy-4BBC-6" value="3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1167.5" y="305" width="40" height="38" as="geometry" />
+          <mxGeometry x="1097.5" y="378" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="7OVz4w7n9kzEPWy-4BBC-7" value="4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1167.5" y="419" width="40" height="38" as="geometry" />
+          <mxGeometry x="1097.5" y="434" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="7OVz4w7n9kzEPWy-4BBC-8" value="5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1169" y="536" width="40" height="38" as="geometry" />
+          <mxGeometry x="1099" y="488" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="7OVz4w7n9kzEPWy-4BBC-9" value="6" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1170" y="651" width="40" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-10" value="7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1169.5" y="767" width="40" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-11" value="8" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1170" y="885" width="40" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-12" value="9" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1168" y="1005" width="40" height="38" as="geometry" />
+          <mxGeometry x="1100" y="571" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="7OVz4w7n9kzEPWy-4BBC-13" value="React tem as seguintes vantagens: Facilidade de aprendizado, componentes reutilizáveis, melhor desempenho, compatibilidade com SEO (Search Engine Optmization), flexibilidade, curva de aprendizado suave.&amp;nbsp;Angular tem as seguintes vantagens: Arquitetura organizada, suporte do google, comunidade ativa, combinação de dados bidirecional, diretivas, injeção de dependências, recarregamento rápido, biblioteca reativa RxJS." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1220.5" y="62.5" width="449" height="118" as="geometry" />
+          <mxGeometry x="1150.5" y="181.5" width="449" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-14" value="Spring Boot e Kotlin tem as seguintes vantagens: Escalabilidade, eficiência e facilidade de manutenção, redução de tempo de desenvolvimento, código mais legível e produtivo, melhoria do desempenho, interoperabilidade com Java." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1219.5" y="185.5" width="450" height="115" as="geometry" />
+        <mxCell id="7OVz4w7n9kzEPWy-4BBC-14" value="O API Gateway: Recebe a requisição do frontend. Pode fazer algumas validações iniciais. Encaminha a requisição para uma função Lambda que coloca a mensagem na fila Amazon SQS." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1149.5" y="308.5" width="450" height="64.5" as="geometry" />
         </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-15" value="PostgreSQL para manter a consistência e o suporte a consultas complexas. Vantagens: Escalabilidade, segurança, flexibilidade, personalização, baixo custo, suporte a transações:" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1219.5" y="303.5" width="450" height="117" as="geometry" />
+        <mxCell id="7OVz4w7n9kzEPWy-4BBC-15" value="AWS Lambda Function: faz algumas validações e envia a mensagem para a fila Amazon SQS." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1149.5" y="376.5" width="450" height="46.5" as="geometry" />
         </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-16" value="BLA" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1219.5" y="419.5" width="450" height="121" as="geometry" />
+        <mxCell id="7OVz4w7n9kzEPWy-4BBC-16" value="Armazena a mensagem até que o backend a processe." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1149.5" y="434.5" width="450" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="7OVz4w7n9kzEPWy-4BBC-17" value="Spring Boot e Kotlin tem as seguintes vantagens: Escalabilidade, eficiência e facilidade de manutenção, redução de tempo de desenvolvimento, código mais legível e produtivo, melhoria do desempenho, interoperabilidade com Java." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1220.5" y="536.5" width="449" height="114" as="geometry" />
+          <mxGeometry x="1150.5" y="488.5" width="449" height="83.5" as="geometry" />
         </mxCell>
         <mxCell id="7OVz4w7n9kzEPWy-4BBC-18" value="Amazon RDS como serviço de banco de dados relacional gerenciando o banco de dados PostgreSQL para manter a consistência e o suporte a consultas complexas. Vantagens: Escalabilidade, segurança, flexibilidade, personalização, baixo custo, suporte a transações." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1220.5" y="652.5" width="450" height="118" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-19" value="BLA" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1220.5" y="767.5" width="449" height="113" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-20" value="BLA" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1220.5" y="886.5" width="449" height="124" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-21" value="BLA" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1220.5" y="1005.5" width="449" height="115" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-22" value="10" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1169" y="1130.5" width="40" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-23" value="BLA" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1221.5" y="1131" width="449" height="115" as="geometry" />
+          <mxGeometry x="1150.5" y="572.5" width="450" height="77.5" as="geometry" />
         </mxCell>
         <mxCell id="o_Vfi3XjopaYs0c_jh8i-4" value="Api Gateway" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#545B64;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=1;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.api_gateway;" vertex="1" parent="1">
           <mxGeometry x="461.5" y="249.5" width="78" height="78" as="geometry" />
